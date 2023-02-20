@@ -1,6 +1,6 @@
 {
-  "name": "back",
-  "version": "1.0.0",
+  "name": "ne1-back",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "GPL-3.0"
 }
